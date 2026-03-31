@@ -1,7 +1,7 @@
 # Rayan Lahbil — Développeur en formation
 
-Lycéen en Terminale (Maths + Physique-Chimie) passionné par l'informatique.
-En cours d'intégration d'un BUT Informatique.
+Je suis un lycéen en terminale ayant les spécialités mathématiques + Physique-Chimie passionné par l'informatique.
+Je suis cours d'intégration d'un BUT Informatique.
 
 ## Mes projets
 
