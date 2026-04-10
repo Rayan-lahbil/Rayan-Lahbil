@@ -31,8 +31,8 @@ Je suis un lycéen en terminale ayant les spécialités Mathématiques + Physiqu
 - HTML / CSS / JavaScript : sites web interactifs
 - Algorithmique : tri, récursivité
 - SQL : bases de données, jointures
-- Git / GitHub : versionnage et déploiement
-
+- Cybersécurité : chiffrement, types d'attaques courantes, fonctionnement des réseaux
+- 
 ## Me contacter
 - GitHub : github.com/Rayan-Lahbil
 - Email : rayan.lahbil.pro@gmail.com
