@@ -32,7 +32,6 @@ Je suis un lycéen en terminale ayant les spécialités Mathématiques + Physiqu
 - Algorithmique : tri, récursivité
 - SQL : bases de données, jointures
 - Cybersécurité : chiffrement, types d'attaques courantes, fonctionnement des réseaux
-- 
+  
 ## Me contacter
-- GitHub : github.com/Rayan-Lahbil
 - Email : rayan.lahbil.pro@gmail.com
